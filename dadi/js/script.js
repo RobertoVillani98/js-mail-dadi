@@ -5,7 +5,7 @@ user = Math.floor(Math.random() * 6) + 1;
 console.log("il dato dell'utente ha come risultato: " + user);
 
 pc = Math.floor(Math.random() * 6) + 1;
-console.log("il dato delpc ha come risultato: " + pc);
+console.log("il dato del pc ha come risultato: " + pc);
 
 if (user > pc) {
  alert("User Win!");
